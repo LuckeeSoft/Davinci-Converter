@@ -91,6 +91,5 @@ Feel free to open issues or submit pull requests on GitHub:
 
 ## 🙏 Thanks for using Davinci Converter!
 
----
 
 <a href="https://app.daily.dev/luckeesoft"><img src="https://api.daily.dev/devcards/v2/eLhuUnHDYIqUdX882IbJe.png?type=wide&r=uo1" width="652" alt="LuckeeSoft's Dev Card"/></a>
