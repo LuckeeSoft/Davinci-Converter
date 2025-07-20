@@ -49,7 +49,7 @@ DaVinci Resolve has strict codec support on Linux, and this tool converts **MKV*
 
 | File Selection & Conversion | Live FFmpeg Logs |
 |-----------------------------|------------------|
-| ![screenshot1](docs/screenshot1.png) | ![screenshot2](docs/screenshot2.png) |
+| ![screenshot1](docs/Screenshot1.png) | ![screenshot2](docs/Screenshot2.png) |
 
 ---
 
